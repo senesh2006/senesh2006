@@ -1,18 +1,115 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>- A Python-based Web Crawler pipeline project  <br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>- Python automation tools  <br>- Small data science projects and ML model-building  <br>- Student-friendly university projects<br><br>💛 I’m looking for help with<br>- Improving my GitHub project structure  <br>- Best practices for scaling Python code  <br>- Image recognition techniques for Kaggle competitions  <br><br>🌱 I’m currently learning<br>- Software Engineering, Data Security, FOP, and Mathematics for CS  <br>- Python for automation + simulations  <br>- Data Science and Machine Learning fundamentals  <br><br>💬 Ask me about<br>- Python assignments  <br>- University coding projects  <br>- Simulation modeling  <br>- Web scraping and small tool development  <br><br>⚡ Fun fact<br>- I once built a bee simulation world… and made them behave almost like real bees.<br>
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · senesh2006</sub></p>
+<h1>Senesh Fernando</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senesh_f.do) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Senesh Fernando) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mihindhukulasuriya Peter senesh fernando) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seneshfernando55@gmail.com) 
+<p><a href="https://github.com/senesh2006">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/165118964?u=1fdee8c06d08c7b9496a7b87e980d5949c8ce21d&amp;v=4" width="180" alt="Senesh Fernando GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=senesh2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=senesh2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=senesh2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=senesh2006&icon=0&color=0)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · HTML · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>16 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>656 contributions · 91 active days</p></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>16</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>656</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Senesh Fernando GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&repos=senesh2006%2FCrowdPass%2Csenesh2006%2FDC-Marvel-Chracters-and-Financial-Analyser%2Csenesh2006%2FSoloScale%2Csenesh2006%2FSoloScalev2&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&repos=senesh2006%2FCrowdPass%2Csenesh2006%2FDC-Marvel-Chracters-and-Financial-Analyser%2Csenesh2006%2FSoloScale%2Csenesh2006%2FSoloScalev2&v=recruiter-projects-1&mode=dark" width="100%" alt="Senesh Fernando selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/senesh2006/CrowdPass">CrowdPass</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/senesh2006/CrowdPass">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/senesh2006/DC-Marvel-Chracters-and-Financial-Analyser">DC-Marvel-Chracters-and-Financial-Analyser</a></h3><p>This Repository Contains Most of the Projects that I've completed</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/senesh2006/SoloScale">SoloScale</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/senesh2006/SoloScalev2">SoloScalev2</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Senesh Fernando technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>48% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=senesh2006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165118964%3Fu%3D1fdee8c06d08c7b9496a7b87e980d5949c8ce21d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Senesh Fernando contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/senesh2006">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Senesh Fernando · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
